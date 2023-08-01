@@ -3,7 +3,7 @@ package momo.inheritance.instance;
 class Main {
 
     public static void main(String[] args) {
-
+    		// git test 중입니다.
       
     }
 }
