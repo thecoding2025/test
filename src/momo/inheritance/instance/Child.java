@@ -22,4 +22,5 @@ class Child extends Parent{
 	}
 	
 	//test 중입니다.
+	//last 테스트 중입니다.
 }
