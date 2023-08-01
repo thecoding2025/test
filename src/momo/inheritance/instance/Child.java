@@ -20,4 +20,6 @@ class Child extends Parent{
 	static void meetFriend() {
 		System.out.println(friendName + "랑 놀다");
 	}
+	
+	//test 중입니다.
 }
